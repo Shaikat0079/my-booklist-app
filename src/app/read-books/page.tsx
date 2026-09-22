@@ -1,5 +1,6 @@
 "use client";
 import { BooksContext } from "@/context/BooksContext";
+import { IBook } from "@/types/books.type";
 import React, { useContext } from "react";
 import {
   BarChart,
